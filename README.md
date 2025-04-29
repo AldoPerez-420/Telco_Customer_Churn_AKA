@@ -4,6 +4,7 @@ We use logistic regression and MLPClassifier models, and interpret results using
 
 ## Files
 - `Customer_Churn_Prediction_using_ML.ipynb`: Jupyter notebook containing all data processing, exploratory analysis, modeling, and predictions.
+- `Telco_Customer_Churn_.csv`: CSV file containing all the data for the processsing, analysis, modeling, and prediction for the code above.
 
 ## How to Run
 1. **Clone the repository:**
