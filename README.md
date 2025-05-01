@@ -3,7 +3,7 @@ This project analyzes customer behavior to predict churn for a telecommunication
 We use model prediction, SMOTE, random forest, logistic regression, and interpret results using LIME for explainability.
 
 ## Files
-- `Working_File_Data_Science.ipynb`: Jupyter notebook containing all data processing, exploratory analysis, modeling, and predictions.
+- `Telco_Customer_Chrun_Coding_File.ipynb`: Jupyter notebook containing all data processing, exploratory analysis, modeling, and predictions.
 - `Telco_Customer_Churn_.csv`: CSV file containing all the data for the processsing, analysis, modeling, and prediction for the code above.
 
 ## How to Run
